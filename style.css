@@ -40,13 +40,13 @@ width: 100%;
     color: white;
     width: 20%;
     float: left;
-    padding-top: 14px;
-    padding-left: 25px;
+    padding-top: 5px;
+    padding-left: 62px;
     
 }
 .rede-sociais{
     display: inline-block;
-    width: 65%;    
+    width: 60%;    
 }
 .rede-sociais ul li{
     display: inline-block;
@@ -56,7 +56,7 @@ width: 100%;
 .rede-sociais img{
     
     height: 30px;
-    margin-top: 44px;
+    margin-top: 30px;
 }
 .cool-100{
     width: 100%;
@@ -66,7 +66,7 @@ width: 100%;
 .header-2{
     background-color: white;
     width: 980px;
-    height: 60px;
+    height: 50px;
     margin: 0 auto;
     padding: 20px;
 }
@@ -82,5 +82,9 @@ width: 100%;
     display: inline-block;
     color: #929191;
     font-size: 16px;
-    padding-left: 15px;
+    margin-left: 15px;
+}
+.menu ul li:hover{
+    color: rgb(88, 196, 247);
+    border-bottom: 1px solid rgb(88, 196, 247);
 }
