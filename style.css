@@ -8,7 +8,7 @@ body {
 ul{
     padding: 0px!important;
 }
-main {
+main, .content {
     width: 980px;
     margin: 0 auto;
 }
@@ -76,6 +76,7 @@ width: 100%;
 .menu{
     width: 70%;
     float: left;
+    height: 50px;
 }
 
 .menu ul li{
@@ -83,8 +84,73 @@ width: 100%;
     color: #929191;
     font-size: 16px;
     margin-left: 15px;
+    height: 50px;
 }
 .menu ul li:hover{
     color: rgb(88, 196, 247);
-    border-bottom: 1px solid rgb(88, 196, 247);
+    border-bottom: 1px solid rgb(88, 196, 247);;
 }
+.slid{
+    padding-top: 20px;
+}
+.cool-10{
+    width: 980px;
+    margin: 0 auto;
+}
+.bloco{
+    margin-top: 3em;
+}
+.bloco-1{
+    margin-top: 6em;
+}
+.cool-3{
+    width: 29%;
+    float: left;
+    position: relative;
+    padding-left: 17px;
+    padding-right: 15px;
+    text-align: center;
+   
+}
+h3{
+    font-weight: normal!important;
+}
+.caixa-imagem{
+    display: inline-block;
+    margin-left: 24%; 
+    float: left;
+    margin: 0 auto;
+    background-color: #ffffff;
+    width: 100%;
+}
+.cool-2{
+    width: 29%;
+    float: left;
+    position: relative;
+    padding-left: 17px;
+    padding-right: 15px;
+    text-align: center;
+}
+.bloco-imagem img{
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
+.bloco-imagem{
+    height: 300px;
+    border: 1px solid #c5c5c5;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 5px;
+}
+.bloco-imagem b, p {
+    text-align: left;
+}
+.bloco-texto {
+    margin-top: 3em;
+}
+.bloco-imagens-texto {
+    background-color: red;
+}
+
+
