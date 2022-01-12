@@ -54,9 +54,8 @@ width: 100%;
     padding-left: 10px;     
 }
 .rede-sociais img{
-    
-    height: 30px;
-    margin-top: 30px;
+    height: 25px;
+    margin-top: 39px;
 }
 .cool-100{
     width: 100%;
@@ -144,7 +143,7 @@ h3{
     margin-left: 5px;
 }
 .bloco-imagem b, p {
-    text-align: left;
+    
 }
 .bloco-texto {
     margin-top: 3em;
@@ -152,5 +151,33 @@ h3{
 .bloco-imagens-texto {
     background-color: red;
 }
-
-
+.cool-4{
+    width: 100%;
+    float: left;
+    position: relative;
+}
+.dados{
+    background-color: #425963;
+    height: 100px;
+}
+.dados p{
+    display: inline-block;
+    color: #ffffff;
+    padding-top: 72px;
+    padding-left: 500px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+   
+}
+.dados-1{
+    display: inline-block;
+    float: right;
+    margin-top: 20px;
+    margin-right: 15px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    list-style: none;
+}
